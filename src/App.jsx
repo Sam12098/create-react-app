@@ -47,7 +47,7 @@ function App() {
           count is {count}
         </button>
         <button onClick={handleIceCreamClick} style={{ marginLeft: '10px' }}>
-          Make it rain ice cream!
+          Make it rain ice cream!!!!
         </button>
         <p>
           Edit <code>src/App.jsx</code> and save to test HMR
